@@ -28,7 +28,7 @@
 
 --- 
 
-~~~all you need is read and read the documentation of laravel than ready to go!!! the simple and powerfull framwork.~~~ `http://laravel.com/doc`
+```all you need is read and read the documentation of laravel than ready to go!!! the simple and powerfull framwork.``` `http://laravel.com/doc`
 
 `enjoy it`
  
