@@ -11,8 +11,11 @@
 	* download  `http://laravel.com`
 
 2. configurasi database
+
 	a. create your database.
+
 	b. migrate the schema database via console `php artisan migrate`
+	
 	c. run the seed via console `php artisan db:seed`
 
 
