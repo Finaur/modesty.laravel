@@ -1,4 +1,4 @@
-#CRUD Using laravel fraework with Reletionship database.
+#CRUD Using laravel framework with Relationship database.
 
 ####how to install 
 1. install composer
@@ -23,9 +23,9 @@
 
 #####Relationship database example of :
 
-1. `One to Many Reletionship`
-2. `Many to Many Reletionship`
-3. `one to one Reletionship`
+1. `One to Many Relationship`
+2. `Many to Many Relationship`
+3. `one to one Relationship`
 
 
 
