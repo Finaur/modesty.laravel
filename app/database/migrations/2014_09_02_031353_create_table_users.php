@@ -21,6 +21,7 @@ class CreateTableUsers extends Migration {
 			$table->string('password', 255);
 			$table->char('user_status', 2);
 			$table->enum('actived', array('y', 'n'));
+			$table->rememberToken();
 
 			$table->timestamps();
 			
