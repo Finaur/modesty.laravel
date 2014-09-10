@@ -2,7 +2,7 @@
 
 ####how to install 
 1. install composer
-	*composer global require `laravel/installer=~1.1`
+	* composer global require `laravel/installer=~1.1`
 
 2. configurasi database
 	
