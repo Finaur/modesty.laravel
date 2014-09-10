@@ -1,1 +1,1 @@
-CRUD Using laravel fraework. blalaalal
+CRUD Using laravel fraework. 
