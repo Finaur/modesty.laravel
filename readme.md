@@ -8,14 +8,14 @@
 	* via composer
 	`composer create-project laravel/laravel your-project-name --prefer-dist`
 
-	* download  `http://laravel.com`
+	* download the sample project
 
 2. configurasi database
 
 	a. create your database.
 
 	b. migrate the schema database via console `php artisan migrate`
-	
+
 	c. run the seed via console `php artisan db:seed`
 
 
