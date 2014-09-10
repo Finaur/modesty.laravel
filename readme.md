@@ -15,9 +15,9 @@
 
 #####Relationship database example of :
 
-`1. One to Many Reletionship
-2. Many to Many Reletionship
-3. one to one Reletionship`
+`1. One to Many Reletionship`
+`2. Many to Many Reletionship`
+`3. one to one Reletionship`
 
 
 
