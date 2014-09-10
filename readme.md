@@ -1,1 +1,1 @@
-CRUD Using laravel fraework. ngegigit
+CRUD Using laravel fraework.
